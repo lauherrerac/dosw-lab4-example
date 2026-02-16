@@ -16,5 +16,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 ### 4. Cronograma:
 
 
-### 5. Backlog:
+### 5. Product Backlog:
+
+
+### 6. Sprint Backlog:
 
