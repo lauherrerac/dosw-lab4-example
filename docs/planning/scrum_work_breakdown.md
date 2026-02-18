@@ -30,5 +30,5 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | TR-01 |
 | **Título** | |
 | **ID de la Historia de Uso asociada** | HU-01 |
-| **Descripción** | *Como [tipo de usuario] quiero [necesidad o acción] para [beneficio u objetivo]* |
+| **Descripción** | *Detalle técnico de lo que se debe realizar para completar la tarea* |
 | **Tareas requisito** | *Id de las tareas de las cuales es dependiente* |
